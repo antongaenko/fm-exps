@@ -2,6 +2,18 @@
 
 A pair of quick iOS/macOS concept experiments built after Apple's **"Enhance your apps with Foundation Models and AI frameworks"** session, using the on-device `FoundationModels` framework.
 
+## TL;DR
+<table>                                                                                                                                               
+    <tr> 
+      <td>
+        <video src="https://github.com/user-attachments/assets/4d6a2b7a-15b4-44ae-980e-9376b632d70a" controls width="600"></video>    
+      </td>
+      <td>
+        <video src="https://github.com/user-attachments/assets/848e3f6c-1f2b-4a82-979d-8f3602e886d6" controls width="600"></video>    
+      </td>
+    </tr>
+</table>
+
 ## Concepts
 
 ### AI Group Chat
