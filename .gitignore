@@ -1,0 +1,4 @@
+.claude
+**/xcuserdata/*
+**/xcshareddata/*
+*.xcodeproj/project.xcworkspace/
